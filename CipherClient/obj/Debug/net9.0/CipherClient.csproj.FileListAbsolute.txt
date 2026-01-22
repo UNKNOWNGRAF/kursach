@@ -1,0 +1,14 @@
+C:\Users\BG\Desktop\kursach\CipherClient\bin\Debug\net9.0\CipherClient.exe
+C:\Users\BG\Desktop\kursach\CipherClient\bin\Debug\net9.0\CipherClient.deps.json
+C:\Users\BG\Desktop\kursach\CipherClient\bin\Debug\net9.0\CipherClient.runtimeconfig.json
+C:\Users\BG\Desktop\kursach\CipherClient\bin\Debug\net9.0\CipherClient.dll
+C:\Users\BG\Desktop\kursach\CipherClient\bin\Debug\net9.0\CipherClient.pdb
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.AssemblyInfoInputs.cache
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.AssemblyInfo.cs
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.csproj.CoreCompileInputs.cache
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.dll
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\refint\CipherClient.dll
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.pdb
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\CipherClient.genruntimeconfig.cache
+C:\Users\BG\Desktop\kursach\CipherClient\obj\Debug\net9.0\ref\CipherClient.dll
